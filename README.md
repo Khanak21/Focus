@@ -2,7 +2,8 @@
 A Chrome Extension made to skip Youtube Ads and block websites to enable more focus 
 
 ## Demo screenshot
-<img width="829" alt="image" src="https://github.com/Khanak21/Focus/assets/127039986/1103dcb1-0317-4387-9cae-a463fa35e69a">
+<img width="654" alt="image" src="https://github.com/Khanak21/Focus/assets/127039986/c09f2fe8-3ca8-420f-a895-7b7f5ad1b816">
+
 
 
 ## To use the extension:
