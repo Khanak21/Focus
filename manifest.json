@@ -7,7 +7,7 @@
 
     "action":{
         "default_popup":"popup.html",
-        "default_icon":"ytlogo.png"
+        "default_icon":"Logo.png"
     },
 
     "content_scripts":[{
@@ -29,7 +29,8 @@
         "tabs",
         "activeTab",
         "webRequest", 
-        "declarativeNetRequest"
+        "declarativeNetRequest",
+        "webRequestBlocking"
     ],
     "background": {
         "service_worker": "background.js"

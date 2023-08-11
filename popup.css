@@ -1,4 +1,62 @@
 body{
     height:300px;
     width:250px;
+    /* background: linear-gradient(90deg, #FDBB2D 0%, #22C1C3 100%); */
+    font-family: 'Nunito', sans-serif;
+   background-color:white;
+
+
+
+}
+h3{
+    text-align: center;
+}
+h4{
+    text-align: center;
+    
+}
+input{
+    border-radius: 20px;
+    width:86%;
+    border: none;
+    /* box-shadow: 2px 5px gray; */
+    padding: 5px;
+    background-color: whitesmoke;
+    
+}
+#user{
+    margin-top: 5px;
+}
+#main{
+    background-color:whitesmoke;
+   margin: 0;
+   border-radius: 10px;
+   /* box-shadow: 2px 2px 5px rgb(183, 180, 180); */
+   padding-top: 0.05px;
+   padding-bottom: 0.02px;
+
+
+}
+#add{
+    border:none;
+    border-radius:5px;
+    height:20px;
+    width:20px;
+    background-color:#e8e8e8;
+
+}
+#delete{
+    border:none;
+    border-radius:50%;
+    height:20px;
+    width:20px;
+    float:right;
+    text-align: center;
+    background-color: rgb(255, 55, 0);
+    color:white;
+}
+#url{
+    margin: 1rem 0.5rem;
+   
+    font-size: small;
 }

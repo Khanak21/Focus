@@ -4,7 +4,7 @@
       "priority": 1,
       "action" : { "type" : "block" },
       "condition" : {
-        "urlFilter" : "||facebook.com",
+        "urlFilter" : "||example.com",
         "resourceTypes" : ["main_frame"]
       }
     }
