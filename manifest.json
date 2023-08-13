@@ -2,7 +2,7 @@
     "manifest_version":3,
 
     "name":"Youtube Ad Skipper",
-    "description":"Enable the extension to skip 'skippable' ads on youtube",
+    "description":"Enable the extension to skip 'skippable' ads on youtube & block websites",
     "version":"1.0",
 
     "action":{
@@ -26,13 +26,7 @@
       },
     "permissions":[
         "storage",
-        "tabs",
-        "activeTab",
         "webRequest", 
-        "declarativeNetRequest",
-        "webRequestBlocking"
-    ],
-    "background": {
-        "service_worker": "background.js"
-      }
+        "declarativeNetRequest"
+    ]
 }
