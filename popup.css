@@ -3,7 +3,8 @@ body{
     width:250px;
     /* background: linear-gradient(90deg, #FDBB2D 0%, #22C1C3 100%); */
     font-family: 'Nunito', sans-serif;
-   background-color:white;
+   background-color:black;
+   color:white;
 
 
 
@@ -21,14 +22,14 @@ input{
     border: none;
     /* box-shadow: 2px 5px gray; */
     padding: 5px;
-    background-color: whitesmoke;
+    background-color:#2f3030;
     
 }
 #user{
     margin-top: 5px;
 }
 #main{
-    background-color:whitesmoke;
+    background-color:#2f3030;
    margin: 0;
    border-radius: 10px;
    /* box-shadow: 2px 2px 5px rgb(183, 180, 180); */
@@ -42,7 +43,8 @@ input{
     border-radius:5px;
     height:20px;
     width:20px;
-    background-color:#e8e8e8;
+    background-color:#2f3030;
+    color: white;
 
 }
 #delete{
